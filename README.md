@@ -1,2 +1,2 @@
 # wordcount
-jieba统计txt中文词频
+#jieba统计txt中文词频
