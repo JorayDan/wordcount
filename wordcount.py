@@ -5,7 +5,7 @@ import numpy as np # numpy数据处理库
 import jieba # 结巴分词
 
 #读取txt文件
-ftxt = open('数据安全法.txt',encoding='utf-8',errors='ignore') # 打开文件
+ftxt = open('xxx.txt',encoding='utf-8',errors='ignore') # 打开文件
 string_data = ftxt.read() # 读出整个文件
 ftxt.close() # 关闭文件
 
